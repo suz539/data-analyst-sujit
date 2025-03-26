@@ -1,11 +1,4 @@
 # data-analyst-sujit
-from docx import Document
-from docx.shared import Inches
-
-# Create a new Document
-doc = Document()
-doc.add_heading('BUSI 653: Cloud Computing Projects Summary', 0)
-
 # Project 1: Data Wrangling
 doc.add_heading('Data Wrangling', level=1)
 doc.add_paragraph("""
