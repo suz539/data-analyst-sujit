@@ -60,7 +60,7 @@ The data wrangling process involves various datasets, including:
 **Expected completion:** 4 weeks (including transformations, crawling, and export stages)
 
 # Screenshots
-<img src="image 01.png">
+<img src="1.png">
 <img src="image 02.png">
 <img src="image 03.png">
 <img src="image 04.png">
