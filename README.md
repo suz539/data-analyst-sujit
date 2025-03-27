@@ -61,7 +61,7 @@ The data wrangling process involves various datasets, including:
 
 # Screenshots
 <img src="1.png">
-<img src="image 02.png">
+<img src="2.png">
 <img src="image 03.png">
 <img src="image 04.png">
 <img src="image 05.png">
