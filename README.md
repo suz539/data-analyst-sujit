@@ -59,7 +59,20 @@ The data wrangling process involves various datasets, including:
 ### Timeline
 **Expected completion:** 4 weeks (including transformations, crawling, and export stages)
 
----
+# Screenshots
+<img src="Screenshot 01.png,">
+<img src="Screenshot 02.png,">
+<img src="Screenshot 03.png,">
+<img src="Screenshot 04.png,">
+<img src="Screenshot 05.png,">
+<img src="Screenshot 06.png,">
+<img src="Screenshot 07.png,">
+<img src="Screenshot 08.png,">
+<img src="Screenshot 09.png,">
+<img src="Screenshot 10.png,">
+<img src="Screenshot 11.png,">
+<img src="Screenshot 12.png,">
+<img src="Screenshot 13.png,">
 
 # Data Quality Control Initiative at City of Vancouver – Storefronts Inventory
 
