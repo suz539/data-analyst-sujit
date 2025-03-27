@@ -62,17 +62,17 @@ The data wrangling process involves various datasets, including:
 # Screenshots
 <img src="1.png">
 <img src="2.png">
-<img src="image 03.png">
-<img src="image 04.png">
-<img src="image 05.png">
-<img src="image 06.png">
-<img src="image 07.png">
-<img src="image 08.png">
-<img src="image 09.png">
-<img src="image 10.png">
-<img src="image 11.png">
-<img src="image 12.png">
-<img src="image 13.png">
+<img src="3.png">
+<img src="4.png">
+<img src="5.png">
+<img src="6.png">
+<img src="7.png">
+<img src="8.png">
+<img src="9.png">
+<img src="10.png">
+<img src="11.png">
+<img src="12.png">
+<img src="13.png">
 
 # Data Quality Control Initiative at City of Vancouver – Storefronts Inventory
 
