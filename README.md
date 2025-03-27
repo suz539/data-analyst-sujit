@@ -60,19 +60,19 @@ The data wrangling process involves various datasets, including:
 **Expected completion:** 4 weeks (including transformations, crawling, and export stages)
 
 # Screenshots
-<img src="Screenshot 01.png">
-<img src="Screenshot 02.png">
-<img src="Screenshot 03.png">
-<img src="Screenshot 04.png">
-<img src="Screenshot 05.png">
-<img src="Screenshot 06.png">
-<img src="Screenshot 07.png">
-<img src="Screenshot 08.png">
-<img src="Screenshot 09.png">
-<img src="Screenshot 10.png">
-<img src="Screenshot 11.png">
-<img src="Screenshot 12.png">
-<img src="Screenshot 13.png">
+<img src="image 01.png">
+<img src="image 02.png">
+<img src="image 03.png">
+<img src="image 04.png">
+<img src="image 05.png">
+<img src="image 06.png">
+<img src="image 07.png">
+<img src="image 08.png">
+<img src="image 09.png">
+<img src="image 10.png">
+<img src="image 11.png">
+<img src="image 12.png">
+<img src="image 13.png">
 
 # Data Quality Control Initiative at City of Vancouver – Storefronts Inventory
 
@@ -137,7 +137,27 @@ As part of the AWS Glue project, various data quality issues were discovered inc
 ### Timeline
 **Expected completion:** 4 weeks (including monitoring setup, testing, and validation)
 
----
+# Screenshot
+<img src="Picture 01.png">
+<img src="Picture 02.png">
+<img src="Picture 03.png">
+<img src="Picture 04.png">
+<img src="Picture 05.png">
+<img src="Picture 06.png">
+<img src="Picture 07.png">
+<img src="Picture 08.png">
+<img src="Picture 09.png">
+<img src="Picture 10.png">
+<img src="Picture 11.png">
+<img src="Picture 12.png">
+<img src="Picture 13.png">
+<img src="Picture 14.png">
+<img src="Picture 15.png">
+<img src="Picture 16.png">
+<img src="Picture 17.png">
+<img src="Picture 18.png">
+<img src="Picture 19.png">
+
 
 > This project created standardized and unified analytical datasets from previously inconsistent and scattered sources. The wrangling and quality control measures enhance data reliability, allowing for accurate analytics, stronger governance, and improved decision-making for the City of Vancouver storefront inventory operations.
  
