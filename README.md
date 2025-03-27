@@ -73,6 +73,7 @@ The data wrangling process involves various datasets, including:
 <img src="11.png">
 <img src="12.png">
 <img src="13.png">
+<img src="screenshot of drawio.png">
 
 # Data Quality Control Initiative at City of Vancouver – Storefronts Inventory
 
